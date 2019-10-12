@@ -65,15 +65,17 @@ h2 {
     
 }
 
-.text {
-    float: left;
-    padding: 5px;
+.text { 
+    margin-top: 15px;
+    line-height: 29px;
+    padding-right: 30px;
    
 }
 
 #my-image{
     float: left;
-    padding: 5px;
+    margin-top: 15px;
+    margin-right: 10px;
 }
 
 hr {
