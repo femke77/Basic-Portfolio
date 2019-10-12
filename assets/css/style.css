@@ -103,6 +103,26 @@ footer{
     font-size: 10px;
 }
 
+input[type=text], [type=email]{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+input[type=submit] {
+    background-color:#4aaaa5;
+    border: none;
+    color: white;
+    width: 70px;
+}
+
+#message input{
+    height: 150px;
+}
+
+form {
+    padding: 10px 0;
+    line-height: 20px;
+}
 a:link {
     color: #777777;
     text-decoration: none;
